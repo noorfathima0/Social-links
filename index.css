@@ -8,7 +8,7 @@ body{
     background-color: black;
 }
 
-#center{
+.center{
     margin: 50px auto;
     width: 35%;
     padding: 30px;
